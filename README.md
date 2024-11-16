@@ -1,26 +1,44 @@
  # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-  ## AIM
-       To Create an Account in AWS Set up a Root user and an IAM user.
-## PROBLEM STATEMENT
-    Explain about the Experiment.
 
-## ALGORITHM
- ### Steps 1:
- ### Steps 2:
- ### Steps 3:
- ### Steps 4:
- ### Steps 5:
-## COMMANDS
-Include the commands used in the Experiment.
+## AIM :
+To create an AWS account, set up a root user, and create an IAM user with specified permissions.
+
+## PROBLEM STATEMENT :
+This experiment involves creating an AWS account, configuring security settings for the root user, and setting up an IAM user. IAM users allow for secure, managed access to AWS resources without exposing the main account's root credentials.
+
+## ALGORITHM :
+
+ ### Step 1:
+ Create an AWS Account </br>
+ ### Step 2:
+ Log In as Root User </br>
+ ### Step 3:
+ Open IAM Management Console</br>
+ ### Step 4:
+ Add a New IAM User</br>
+ ### Step 5:
+ Configure IAM User Login</br>
+ ### Step 6:
+ Set Permissions for IAM User</br>
+ ### Step 7:
+ Review and Create IAM User</br>
+
+### REG NUMBER:212222100013
+### NAME: JAYABHARATHI S
 
 ## OUTPUT
-### REG NUMBER:
-### NAME:
- 
- Include your Screenshots Here.
+
+### ROOT USER:
+![image](https://github.com/user-attachments/assets/72fe0b8c-aece-468d-9602-31c16cb3e883)
+
+![image](https://github.com/user-attachments/assets/a601ea4c-4298-449d-8e88-d894c1d80e46)
+
+ ### IAM USER:
+![image](https://github.com/user-attachments/assets/e7c397ee-a9a4-49f6-8f7d-8f952c3b4f6a)
+
+![image](https://github.com/user-attachments/assets/8e8f0e07-3d8c-4f6a-bfe5-7b788429f5b2)
+
 ## RESULT
- 
+The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account. 
 
   
-
-
